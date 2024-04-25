@@ -400,8 +400,8 @@ const publications = {
     
       id: "Komorebi-Connect-Backend",
       name: "Komorebi",
-      createdAt: "2023-07-02T00:00:00Z",
-      description: "Paper published in KDD KiML 2023",
+      createdAt: "2022-05-19",
+      description: "Repository with the backend of the webapp I worked on for Amazon connect.",
       url: "https://gitfront.io/r/Gabian04/p3XT6FwSuAcc/komorebi-backend-code/",
     
     },

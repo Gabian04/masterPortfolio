@@ -421,6 +421,13 @@ const publications = {
       description: "Project repository with a game in unity for company Movimiento Steam to make more people study STEM.",
       url: "https://github.com/Gabian04/retoSteam",
     },
+    {
+      id: "UnrealProjects",
+      name: "Unreal-Projects",
+      createdAt: "2024-04-12",
+      description: "This repository has a link to the games I made in UnrealEngine. Plus a little explanation for each one.",
+      url: "https://github.com/Gabian04/UnrealProjects",
+    },
   ],
 };
 
@@ -428,9 +435,9 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "PI3.jpg",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with videogame or software Development.",
+      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with videogame or software Development. You can also email me at santigabian@hotmail.com",
   },
   blogSection: {
   },
